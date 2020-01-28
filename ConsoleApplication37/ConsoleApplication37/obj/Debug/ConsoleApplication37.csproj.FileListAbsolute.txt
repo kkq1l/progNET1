@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Новая папка\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe.config
+C:\Users\Student\Desktop\Новая папка\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Новая папка\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe
+C:\Users\Student\Desktop\Новая папка\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.pdb
+C:\Users\Student\Desktop\Новая папка\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.exe
+C:\Users\Student\Desktop\Новая папка\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.pdb
