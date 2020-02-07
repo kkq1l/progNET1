@@ -46,8 +46,12 @@ namespace ConsoleApplication37
             {
                 Console.WriteLine("Здраствуйте госпожа " + name);
             }
-            else {
+            else if (bukva == "б" || bukva == "в" || bukva == "г" || bukva == "д" || bukva == "ж" || bukva == "з" || bukva == "й" || bukva == "к" || bukva == "л" || bukva == "м" || bukva == "н" || bukva == "п" || bukva == "р" || bukva == "с" || bukva == "т" || bukva == "ф" || bukva == "х" || bukva == "ц" || bukva == "ч" || bukva == "ш" || bukva == "щ")
+            {
                 Console.WriteLine("Здраствуйте господин " + name);
+            }
+            else {
+                Console.WriteLine("Здраствуйте господин(ожа) " + name);
             }
             return;
         }
@@ -61,6 +65,48 @@ namespace ConsoleApplication37
                 Console.WriteLine("Максимальное число равно " + b);
             }
             return;
+        }
+        public void Zad1(double a, double b)
+        {
+            double x;
+            x = -b / a;
+            Console.WriteLine(x);
+            return;
+        }
+        public void Zad4(double a, double b)
+        {
+            double x;
+
+            x = a / 3.6;
+
+            if (x > b)
+            {
+                Console.WriteLine(a + " км/ч больше чем " + b + " м/сек");
+            }
+            else if (x < b)
+            {
+                Console.WriteLine(b + " м/сек больше чем " + a + " км/ч");
+            }
+            else
+            {
+                Console.WriteLine("Они равны");
+            }
+
+        }
+
+        public void Zad6(int a, int b, int c, int d)
+        {
+            int x;
+            x = d - b;
+            if (c < a)
+            {
+                x = x - 1;
+                Console.WriteLine("Возраст " + x);
+            }
+            else
+            {
+                Console.WriteLine("Возраст " + x);
+            }
         }
     }
 }

@@ -4,3 +4,9 @@ C:\Users\Student\Desktop\Новая папка\ConsoleApplication37\ConsoleAppli
 C:\Users\Student\Desktop\Новая папка\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.pdb
 C:\Users\Student\Desktop\Новая папка\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.exe
 C:\Users\Student\Desktop\Новая папка\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.pdb
+C:\prog\progNET1\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe.config
+C:\prog\progNET1\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.exe
+C:\prog\progNET1\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.pdb
+C:\prog\progNET1\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe
+C:\prog\progNET1\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.pdb
+C:\prog\progNET1\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.csprojResolveAssemblyReference.cache
